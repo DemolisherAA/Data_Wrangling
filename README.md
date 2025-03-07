@@ -48,7 +48,8 @@ This repository contains two Jupyter Notebooks focusing on tasks related to data
 - **Task 2: "Data Loading and Cleaning Workflow"**: Notebook for initial data loading and cleaning.
 
 ## Authors
-- Group 010
+- https://github.com/DemolisherAA
+- https://github.com/jaypanchal9
 
 ## License
 This project is licensed under GNU (General Public License). See the LICENSE file for details.
